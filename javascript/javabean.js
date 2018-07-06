@@ -16,7 +16,7 @@ $(document).ready(function(){
     timer: 20,
     timerOn: false,
     timerId : '',
-    // questions options and answers data
+    // Doggy related questions
     questions: {
       q1: 'What dog breed is most used as a mascot?', //Bulldog
       q2: 'Despite its name, where does the Great Dane come from?', //Germany
